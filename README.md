@@ -2,7 +2,10 @@
 <h3 align="center"> 💻 "Why do programmers prefer dark mode?"
 👉 Because light attracts bugs! 🐛😆
 </h3>
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/mynameisducanh/count.svg" />
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mynameisducanh" alt="mynameisducanh" /></a> </p>
 <img align="right" alt="Coding" width="400" height="300" src="https://github.com/user-attachments/assets/37e1caf0-a028-4940-b73e-d81373d7037a" />
