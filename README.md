@@ -26,7 +26,7 @@
   
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mynameisducanh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=white&hide_border=false&order=2" height="200" alt="languages graph"  />
 </div>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mynameisducanh&" alt="mynameisducanh" /></p>
+
 <p align="center">  Visitor count<br><p/>
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/mynameisducanh/count.svg" />
