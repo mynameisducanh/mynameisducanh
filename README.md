@@ -7,7 +7,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mynameisducanh" alt="mynameisducanh" /></a> </p>
 <img align="right" alt="Coding" width="400" height="300" src="https://github.com/user-attachments/assets/37e1caf0-a028-4940-b73e-d81373d7037a" />
 
-- 🌱 I’m currently learning **NuxtJs, Nextjs, NestJs, React Native, C/C++ and C#**.  
+- 🌱 I’m currently learning **Typescript, NuxtJs, Nextjs, NestJs, React Native, C/C++ and C#**.  
 - 🎓 I’m studying at **University of Science and Technology – The University of Danang**.  
 - 💻 Passionate about **coding, problem-solving, and building cool projects**.  
 - 🚀 Always eager to **learn new technologies and improve my skills**.  
