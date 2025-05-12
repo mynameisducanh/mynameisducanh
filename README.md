@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://github.com/user-attachments/assets/9daaad7d-bb4e-4603-b0ec-b0d6a7611a85" alt="android" height="70"/> My name is Duc Anh</h1>
-
+<p align="center">This is my learning account</p>
 <h3 align="center"> 💻 "Why do programmers prefer dark mode?"
 👉 Because light attracts bugs! 🐛😆
 </h3>
